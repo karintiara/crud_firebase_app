@@ -1,6 +1,6 @@
 {
-    "name": "crud_firebase_app",
-    "short_name": "crud_firebase_app",
+    "name": "crud_firebase_app_fix",
+    "short_name": "crud_firebase_app_fix",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
