@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1073884279160",
+    "project_id": "pbm-firebase-6635c",
+    "storage_bucket": "pbm-firebase-6635c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073884279160:android:c4e5afdfb5b271cbca588d",
+        "android_client_info": {
+          "package_name": "com.example.crud_firebase_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA60O9JqJSB3f-dQqMsuzI9jqF-OzKE7DA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
